@@ -2,11 +2,9 @@
 
 # Introduction 
 
-**In today’s digital era, speech signals have become a mode of communication between humans and machines which is possible by various technological advancements. Speech recognition techniques with methodologies signal processing techniques made leads to Speech-to text (STT) technology which is used mobile phones as a mode of communication.**
-
-**Speech Recognition is the fastest growing research topic in which attempts to recognize speech signals. This leads to Speech Emotion Recognition (SER) growing research topic in which lots of advancements can lead to advancements in various fields like automatic translation systems, machine to human interaction, used in synthesizing speech from the text so on**
-
-**There are many voice products has been developed like Amazon Alex, Google Home, Apple Home Pod which functions mainly on voice-based commands. It is evident that Voice will be the better medium for communicating to the machines**
+**Speech is the most natural form of communication between humans and computers speech is a complex signal.
+It contains information regarding message speaker language and emotion. so, emotion makes speech more attractive more effective more expressive. speech emotion recognition means understanding the emotional state of a human by extracting or detecting the feature extracted by his/her voice.
+There are some universal emotions including Neutral, anger, joy, sadness in which any intelligent system with limited computer resources can be trained to recognize or synthesize as needed.**
 
 
 
@@ -84,7 +82,8 @@ Research has shown that verbal communication remains one of the most employable 
 
 # Conclusion 
 
-**Through  this project, we showed how we can leverage Machine learning to obtain the underlying emotion from speech audio data and some insights on the human expression of emotion through voice. This system can be employed in a variety of setups like Call Centre for complaints or marketing, in voice-based virtual assistants or chatbots, in linguistic research, etc.** 
+**That's it! We come to the conclusion of our exercise 
+In this Project, we utilize a few excellent procedures like MLP classifier, CNN, KNN, Decision tree, LSTM,GRU.After utilizing all demonstrate CNN gave a good accuracy. After that we also use Data Augmentation could be a strategy utilized to extend the sum of information by including marginally adjusted duplicates of as of now existing information or recently made engineered information from existing information. It acts as a regularizer and makes a difference decrease overfitting when preparing a machine learning demonstrate. So this extend makes a difference to anticipate feeling utilizing discourse.** 
 
 
 
